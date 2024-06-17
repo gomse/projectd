@@ -1,3 +1,6 @@
 # Project D
 
-WIPI Clet
+Since. 2011
+
+- RPG
+- WIPI Clet
